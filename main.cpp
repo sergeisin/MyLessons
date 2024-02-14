@@ -3,5 +3,5 @@
 int main()
 {
     std::cout << "Privet" << std::endl;
-    return 5;
+    return 10;
 }
