@@ -1,5 +1,7 @@
+#include <iostream>
 
 int main()
 {
-    return 5;
+    std::cout << "Privet" << std::endl;
+    return 10;
 }
