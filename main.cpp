@@ -1,7 +1,8 @@
 #include <iostream>
+#include "square.hpp"
 
 int main()
 {
-    std::cout << "Privet" << std::endl;
+    std::cout << square(5) << std::endl;
     return 10;
 }

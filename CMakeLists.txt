@@ -5,4 +5,6 @@ project(MyLessons)
 
 add_executable(prog
     main.cpp
+    square.cpp
+    square.hpp
 )
